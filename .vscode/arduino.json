@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:leonardo",
+    "programmer": "arduino:avrispmkii",
+    "port": "COM5",
+    "sketch": "button.ino",
+    "output": "../DCS_Joystick_Output"
+}
